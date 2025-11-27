@@ -1,4 +1,7 @@
 # Indian-sovereign-yield-curve-and-macro-liquidity-monitor
+
+##### NOTE : USE THIS PROJECT FOR EDUCATION URPOSE ONLY #####
+
 **The Problem Statement:**
 "Monetary policy transmission—the process by which changes in the Central Bank's Policy Rate (Repo) affect the real economy—is often non-linear and subject to significant lags.
 Financial analysts and risk managers face a critical data engineering challenge: RBI macroeconomic data is fragmented across disparate sources with conflicting time frequencies (Daily Money Market data vs. Ad-hoc Policy announcements vs. Monthly Bond Yields). This fragmentation creates a 'blind spot,' making it difficult to detect:
